@@ -1,0 +1,13 @@
+research on capabilities of jira for reporting:
+
+I worked with PMs to try to understand the various reporting capabilities in Jira and the different reports that can be generated out of Jira and I created here a large report that I sent out to the PMs so that can be more familiar with these reports
+
+Another use case I worked on was doing research on determining whether we can create our own custom templates for the ESR in PowerBI. However, the conclusion we came to for this was that it required higher access from the Jira team that we didn’t have and would take a while to acquire so we decided to move on from that use case and focus our efforts on other things for now.
+
+Another use case I worked on was created Jira dashboards for several PMs and their projects such as KPIF SMU, KPIF AMT, SEE, and KPIF BSS. On these dashboards, I added several gadgets that show useful statistics and data on projects such as burndown charts, velocity charts, active issues that the PMs can easily see side by side on their dashboard. I also worked closely with the PMs of these projects to determine what changes they wanted made to their own dashboards. I also created filters for each project that filtered between showing only issues in sprints or all stories in the current project. 
+
+I also did research on integrating financial reports in jira, and came to the conclusion that it wasn’t all feasible as Jira doesn’t innately support financial reporting as its base values are issues, stories, epics. I also sent out an email recently with more details on my findings for that. 
+
+I also looked into these two Jira plugins called EazyBi and Dataplane, that essentially allow you to design your own reports with certain fields that come with the plug in. Basically, EazyBi is a more complex reporting plugin that is more complicated but can do more, and Dataplane is less complicated, more user friendly but has less capabilities. 
+
+And finally, what I am currently working on is automating Fred Actuals into this specific report format. My code as if now isn’t runnable because there is a bug but I should have it fixed my tomorrow and I will send it out to Jason
