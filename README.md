@@ -1,5 +1,3 @@
-# FRED-automation
-
 ## How To Run
 1. Install `virtualenv`:
 ```
@@ -25,3 +23,6 @@ pip install -r requirements.txt
 ```
 python main.py or run through IDE
 ```
+
+Note: Make sure to have a singular FRED file in the "input" folder and a singular 
+report file in the "output" folder.
