@@ -19,7 +19,7 @@ virtualenv venv
 pip install -r requirements.txt
 ```
 
-5. Finally start the web server:
+5. Run scripts:
 ```
 python main.py or run through IDE
 ```
