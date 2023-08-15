@@ -9,7 +9,7 @@ pip install virtualenv
 virtualenv venv
 ```
 
-3. Then run the command:
+3. Activate venv:
 ```
 .\venv\Scripts\activate
 ```
