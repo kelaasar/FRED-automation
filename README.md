@@ -19,7 +19,7 @@ virtualenv venv
 pip install -r requirements.txt
 ```
 
-5. Run scripts:
+5. Run script:
 ```
 python main.py or run through IDE
 ```
