@@ -1,10 +1,10 @@
 ## How To Run
-1. Install `virtualenv`:
+1. Open a terminal and Install `virtualenv`:
 ```
 pip install virtualenv
 ```
 
-2. Open a terminal in the project root directory and run:
+2. Navigate to the project root directory and run:
 ```
 virtualenv venv
 ```
